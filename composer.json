@@ -1,0 +1,16 @@
+{
+    "name": "bluedot/test1",
+    "description": "test",
+    "authors": [
+        {
+            "name": "sang",
+            "email": "15225140805@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Www\\": "src/"
+        }
+    }
+}
